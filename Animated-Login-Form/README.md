@@ -1,3 +1,3 @@
 #Animated-Login 🚀
 
-- Animated login form using HTML & CSS.
+- Animated login form using HTML and CSS
